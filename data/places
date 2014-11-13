@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "places": "Manhattan",
+        "betterplaces": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5972900390625,
+          39.22799807055236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "places": "Wamego",
+        "betterplaces": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.30615234375,
+          39.20352640482464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "places": "",
+        "betterplaces": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.45858764648438,
+          39.49344386279537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "betterplaces": "New York",
+        "places": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00390625,
+          40.84706035607122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "betterplaces": "",
+        "places": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.674072265625,
+          40.72228267283148
+        ]
+      }
+    }
+  ]
+}
